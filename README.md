@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jenni-foued&label=Profile%20views&color=0e75b6&style=flat" alt="jenni-foued" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jenni-foued" alt="jenni-foued" /></a> </p>
-
 - 🌱 I’m currently learning **AR/VR**
 
 - 📫 How to reach me **medfouedjenni@gmail.com**
