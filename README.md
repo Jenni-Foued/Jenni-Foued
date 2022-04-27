@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Foued Jenni</h1>
-<h3 align="center">A passionate game developer from Tunisia</h3>
+<h3 align="center">I'm a Software Engineer/Game Developer based in Tunisia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jenni-foued&label=Profile%20views&color=0e75b6&style=flat" alt="jenni-foued" /> </p>
 
