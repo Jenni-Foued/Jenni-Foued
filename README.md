@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Foued Jenni</h1>
 <h3 align="center">I'm a Software Engineer/Game Developer based in Tunisia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jenni-foued&label=Profile%20views&color=0e75b6&style=flat" alt="jenni-foued" /> </p>
-
 - 🌱 I’m currently learning **AR/VR**
 
 - 📫 How to reach me **medfouedjenni@gmail.com**
@@ -19,3 +17,4 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jenni-foued&show_icons=true&locale=en&layout=compact" alt="jenni-foued" height=200 />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=jenni-foued&show_icons=true&locale=en" alt="jenni-foued" height=200/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jenni-foued&label=Profile%20views&color=0e75b6&style=flat" alt="jenni-foued" /> </p>
