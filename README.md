@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Foued Jenni</h1>
 <h3 align="center">I'm a Software Engineer/Game Developer based in Tunisia</h3>
 
-- 🌱 I’m currently learning **AR/VR**
+- 🌱 I’m currently learning **Multiplayer in Unity using PUN2**
 
 - 📫 How to reach me **medfouedjenni@gmail.com**
 
