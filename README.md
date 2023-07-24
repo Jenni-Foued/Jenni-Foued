@@ -25,6 +25,8 @@
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
 </p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jenni-foued&show_icons=true&locale=en&layout=compact" alt="jenni-foued" height=200 />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=jenni-foued&show_icons=true&locale=en" alt="jenni-foued"/>
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jenni-foued&show_icons=true&locale=en&layout=compact" alt="jenni-foued's Top Languages" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jenni-foued&show_icons=true&locale=en" alt="jenni-foued's GitHub Stats" />
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jenni-foued&label=Profile%20views&color=0e75b6&style=flat" alt="jenni-foued" /> </p>
